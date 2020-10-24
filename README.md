@@ -6,6 +6,8 @@
 
 [report](./report/main.pdf)
 
+[presentation](./presentation/main.pdf)
+
 [source code](./source/implementation.pdf)
 
 
